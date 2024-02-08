@@ -1,0 +1,1 @@
+FetchClient.ts:28 Refused to connect to 'https://login.microsoftonline.com/common/oauth2/v2.0/token' because it violates the following Content Security Policy directive: "connect-src 'self' https://api.hubspot.com https://api.wereport.work https://auth.atlassian.com https://forms.hscollectedforms.net https://l.sharethis.com https://unpkg.com".
